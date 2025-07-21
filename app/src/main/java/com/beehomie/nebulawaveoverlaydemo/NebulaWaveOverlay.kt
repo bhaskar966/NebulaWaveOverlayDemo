@@ -1,4 +1,4 @@
-package com.beehomie.beewalls.util.shared_ui_components
+package com.beehomie.nebulawaveoverlaydemo
 
 import androidx.compose.animation.core.FastOutSlowInEasing
 import androidx.compose.animation.core.LinearEasing
